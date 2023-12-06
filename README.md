@@ -54,4 +54,30 @@ Incorporate Screening Tools: To further fortify the bot's diagnostic capabilitie
 • HCI Integration: HCI principles guide the bot's learning process, ensuring that user feedback is actively incorporated to improve the accuracy of interactions without compromising user privacy.
 
 # Groupware
+1. Algorithms and Machine Learning for Early Detection:
+   
+• Scenario Application: MoodMate's algorithms analyse conversation patterns, tone, and keywords to flag potential indicators of depression. However, it does this discreetly to maintain user trust and confidentiality.
+
+• HCI Integration: HCI principles emphasize transparency in how MoodMate operates, ensuring that users are informed about data collection and how the bot utilizes algorithms for detection while respecting user privacy.
+
+2. Engaging Interactions for Collaborative Support:
+
+• Scenario Application: MoodMate encourages users to engage in self-care activities, offers coping strategies, and provides access to mental health resources through interactive elements like guided relaxation exercises or mood tracking features.
+
+• HCI Integration: These features are designed based on HCI principles to facilitate user engagement and collaboration with the bot in a supportive manner, promoting mental well-being through collaborative interactions.
+
+# Usability Testing
+1. Cognitive Walkthroughs: Scenario Application: Evaluate how effectively users navigate the conversational flow to express their emotions and engage with screening tools. Identify any cognitive barriers in understanding or using the bot's functionalities related to depression detection and support.
+   
+2. Think-Aloud Protocol: Scenario Application: Encourage users to express their thoughts while interacting with the bot. Observe their reactions and verbalized emotions to gauge the bot's ability to empathetically respond and offer appropriate guidance.
+
+3. A/B Testing: Scenario Application: Present variations of the bot's conversational approach or interface design to different user groups. Assess user feedback to determine which version fosters better engagement, emotional support, and ease of use.
+
+4. Surveys and Questionnaires: Scenario Application: Administer post-interaction surveys to gather feedback on the bot's ability to provide a supportive space for users to express their feelings. Seek opinions on the effectiveness of coping strategies suggested and the confidentiality maintained during interactions.
+
+5. Prototyping and User Testing: Scenario Application: Prototype and test new features, such as enhanced mood tracking or expanded resource recommendations. Gather user feedback on the usefulness and userfriendliness of these additions.
+
+6. Task Analysis: Scenario Application: Analyse users' interactions while they perform specific tasks like completing depression screenings or seeking information on coping strategies. Identify any obstacles hindering task completion or comprehension.
+
+7. Remote Usability Testing: Scenario Application: Conduct usability tests with users in various locations to assess the bot's accessibility and functionality across different environments. Gather insights on connectivity issues or variations in user experiences based on location.
 
